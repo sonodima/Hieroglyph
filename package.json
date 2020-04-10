@@ -1,0 +1,21 @@
+{
+  "name": "hieroglyph",
+  "version": "1.0.0",
+  "description": "I want that freaking name.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "fortnite",
+    "name",
+    "greek",
+    "generator"
+  ],
+  "author": "sonodima",
+  "license": "ISC",
+  "dependencies": {
+    "fortnite-api-io": "^1.4.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
