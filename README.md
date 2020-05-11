@@ -1,24 +1,20 @@
 <h1 align="center">Hieroglyph 𓀀</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
-  </a>
-</p>
 
-> Simple program that generates all combinations of greek names for a given username, then filters the usernames that aren't taken in Fortnite.
+> Simple program that generates all combinations of greek names for a given username and removes the usernames that aren taken in Fortnite.
 
 > You can use Hieroglyph to get that username you always wanted.
 
 ## Install
 
 ```sh
+git clone "https://github.com/sonodima/Hieroglyph"
+cd Hieroglyph
 npm install
 ```
 
-> You have to obtain a FortniteAPI Key [here](https://fortniteapi.io)
-
 ## Usage
+
+> Before running the program, you have to obtain a FortniteAPI key [here](https://fortniteapi.io)
 
 ```sh
 npm start
