@@ -1,8 +1,6 @@
 <h1 align="center">Hieroglyph 𓀀</h1>
 
-> Simple program that generates all combinations of greek names for a given username and removes the usernames that aren taken in Fortnite.
-
-> You can use Hieroglyph to get that username you always wanted.
+> Simple program that generates all combinations of names containing greek letters for a given username and removes the usernames that aren taken in the Epic Games Store.
 
 ## Install
 
